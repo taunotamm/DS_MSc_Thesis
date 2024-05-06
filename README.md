@@ -17,6 +17,15 @@
   <li><b>sentiment.ipynb</b> - tundmusanalüüsi mudelite rakendamine. Inglise keele puhul võrreldakse kahe mudeli sooritust;</li>
   <li><b>sentiment_BERTopic.ipynb</b> - tundmusanalüüsi rakendamine koos teemade analüüsiga (BERTopic).</li>
 </ul>
+
+<h3>Failid kaustas "media":</h3>
+<ul>
+  <li><b>comments_en.PNG</b> - ingliskeelsete postituste kommentaaride tundmuse jaotus üle teemade;</li>
+  <li><b>comments_et.PNG</b> - eestikeelsete postituste kommentaaride tundmuse jaotus üle teemade;</li>
+  <li><b>post_en.PNG</b> -  ingliskeelsete postituste tundmuse jaotus üle teemade;</li>
+  <li><b>posts_et.PNG</b> - eestikeelsete postituste tundmuse jaotus üle teemade;</li>
+</ul>
+
 <hr>
 
 <h1>Creation and Analysis of the Estonian Subreddit Corpus</h1>
@@ -37,4 +46,12 @@
   <li><b>ENG_model_test.ipynb</b> - evaluating the performance of English models for sentiment analysis;</li>
   <li><b>sentiment.ipynb</b> - applying sentiment analysis models. In English, performance of two models is compared;</li>
   <li><b>sentiment_BERTopic.ipynb</b> - applying sentiment analysis combined with topic analysis (BERTopic).</li>
+</ul>
+
+<h3>Files in the "media" folder:</h3>
+<ul>
+  <li><b>comments_en.PNG</b> - distribution of sentiment in comments on English posts across topics;</li>
+  <li><b>comments_et.PNG</b> - distribution of sentiment in comments on Estonian posts across topics;</li>
+  <li><b>post_en.PNG</b> - distribution of sentiment in English posts across topics;</li>
+  <li><b>posts_et.PNG</b> - distribution of sentiment in Estonian posts across topics;</li>
 </ul>
