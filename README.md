@@ -8,7 +8,14 @@
 
 <h3>Failid kaustas "code":</h3>
 <ul>
-  <li><b>corpus.ipynb</b> - </li>
+  <li><b>corpus.ipynb</b> - korpuse loomine;</li>
+  <li><b>comparison_EKÜ.ipynb</b> - andmestiku kattuvuse võrdlus eesti keele ühendkorpusega;</li>
+  <li><b>overall_data_analysis.ipynb</b> - üldine andmetel põhinev analüüs;</li>
+  <li><b>lang_detect.ipynb</b> - keeletuvastuse proovimine ja rakendamine; sisaldab ka üldist andmetel põhineva analüüsi osi;</li>
+  <li><b>Est_RoBERTa_train.ipynb</b> - eestikeelse RoBERTa mudeli peenhälestamine;</li>
+  <li><b>ENG_model_test.ipynb</b> - ingliskeelsete mudelite soorituste hindamine tundmusanalüüsi jaoks;</li>
+  <li><b>sentiment.ipynb</b> - tundmusanalüüsi mudelite rakendamine. Inglise keele puhul võrreldakse kahe mudeli sooritust;</li>
+  <li><b>sentiment_BERTopic.ipynb</b> - tundmusanalüüsi rakendamine koos teemade analüüsiga (BERTopic).</li>
 </ul>
 <hr>
 
