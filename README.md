@@ -1,4 +1,4 @@
-<h1>Eestikeelse subredditi korpuse loomine ning analüüs</h1>
+<h1>Eesti alamredditi korpuse loomine ning analüüs</h1>
 <p>Autor: <b>Tauno Tamm</b></p>
 <p>Juhendaja: <b>Siim Orasmaa, PhD</b></p>
 <h3>Lühikokkuvõte:</h3>
