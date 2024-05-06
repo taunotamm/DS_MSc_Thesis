@@ -8,7 +8,7 @@
 
 <hr>
 
-<h1>Creating and analyzing a corpus for an Estonian-language subreddit</h1>
+<h1>Creation and Analysis of the Estonian Subreddit Corpus</h1>
 <p>Author: <b>Tauno Tamm</b></p>
 <p>Supervisor: <b>Siim Orasmaa, PhD</b></p>
 <h3>Abstract:</h3>
