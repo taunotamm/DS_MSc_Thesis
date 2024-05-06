@@ -6,6 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/taunotamm/DS_MSc_Thesis/main/media/abstract/Tauno_Tamm_abstrakt_v2_ET.jpg" width="100%">
 
+<h3>Failid kaustas "code":</h3>
+<ul>
+  <li><b>corpus.ipynb</b> - </li>
+</ul>
 <hr>
 
 <h1>Creation and Analysis of the Estonian Subreddit Corpus</h1>
