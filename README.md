@@ -10,11 +10,11 @@
 <ul>
   <li><b>corpus.ipynb</b> - korpuse loomine;</li>
   <li><b>comparison_EKÜ.ipynb</b> - andmestiku kattuvuse võrdlus eesti keele ühendkorpusega;</li>
-  <li><b>overall_data_analysis.ipynb</b> - üldine andmetel põhinev analüüs;</li>
+  <li><b>overall_analysis.ipynb</b> - üldine andmetel põhinev analüüs;</li>
   <li><b>lang_detect.ipynb</b> - keeletuvastuse proovimine ja rakendamine; sisaldab ka üldist andmetel põhineva analüüsi osi;</li>
-  <li><b>Est_RoBERTa_train.ipynb</b> - eestikeelse RoBERTa mudeli peenhälestamine;</li>
+  <li><b>estRoBERTa_train.ipynb</b> - eestikeelse RoBERTa mudeli peenhälestamine;</li>
   <li><b>ENG_model_test.ipynb</b> - ingliskeelsete mudelite soorituste hindamine tundmusanalüüsi jaoks;</li>
-  <li><b>sentiment.ipynb</b> - tundmusanalüüsi mudelite rakendamine. Inglise keele puhul võrreldakse kahe mudeli sooritust;</li>
+  <li><b>EN_sentiment_model_TEST.ipynb</b> - Inglise keele tundmusanalüüsi mudelite soorituste võrdlus;</li>
   <li><b>sentiment_BERTopic.ipynb</b> - tundmusanalüüsi rakendamine koos teemade analüüsiga (BERTopic).</li>
 </ul>
 
@@ -40,11 +40,11 @@
 <ul>
   <li><b>corpus.ipynb</b> - creating the corpus;</li>
   <li><b>comparison_EKÜ.ipynb</b> - comparing dataset overlap with the Estonian Joint Corpus;</li>
-  <li><b>overall_data_analysis.ipynb</b> - general data-based analysis;</li>
+  <li><b>overall_analysis.ipynb</b> - general data-based analysis;</li>
   <li><b>lang_detect.ipynb</b> - trying and applying language detection; also includes parts of general data-based analysis;</li>
-  <li><b>Est_RoBERTa_train.ipynb</b> - fine-tuning the Estonian RoBERTa model;</li>
+  <li><b>estRoBERTa_train.ipynb</b> - fine-tuning the Estonian RoBERTa model;</li>
   <li><b>ENG_model_test.ipynb</b> - evaluating the performance of English models for sentiment analysis;</li>
-  <li><b>sentiment.ipynb</b> - applying sentiment analysis models. In English, performance of two models is compared;</li>
+  <li><b>EN_sentiment_model_TEST.ipynb</b> - performance comparison of the English language sentiment analysis models;</li>
   <li><b>sentiment_BERTopic.ipynb</b> - applying sentiment analysis combined with topic analysis (BERTopic).</li>
 </ul>
 
