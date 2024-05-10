@@ -12,7 +12,7 @@
   <li><b>comparison_EKÜ.ipynb</b> - andmestiku kattuvuse võrdlus eesti keele ühendkorpusega;</li>
   <li><b>overall_analysis.ipynb</b> - üldine andmetel põhinev analüüs;</li>
   <li><b>lang_detect.ipynb</b> - keeletuvastuse proovimine ja rakendamine; sisaldab ka üldist andmetel põhineva analüüsi osi;</li>
-  <li><b>estRoBERTa_train.ipynb</b> - eestikeelse RoBERTa mudeli peenhälestamine;</li>
+  <li><b>estRoBERTa_train.ipynb</b> - eestikeelse RoBERTa mudeli peenhälestamine; osaliselt tugineti sellele tööle: https://github.com/LisannaL/Thesis_MSc/tree/main</li>
   <li><b>ENG_model_test.ipynb</b> - ingliskeelsete mudelite soorituste hindamine tundmusanalüüsi jaoks;</li>
   <li><b>EN_sentiment_model_TEST.ipynb</b> - Inglise keele tundmusanalüüsi mudelite soorituste võrdlus;</li>
   <li><b>sentiment_BERTopic.ipynb</b> - tundmusanalüüsi rakendamine koos teemade analüüsiga (BERTopic).</li>
